@@ -1,0 +1,53 @@
+2
+8
+5
+1
+10
+5
+9
+9
+3
+5
+Binary Tree Stats:
+Time to build: 0
+Sorted Correctly?: 1
+1
+2
+3
+5
+5
+5
+8
+9
+9
+10
+Time to Traverse: 0
+Time to Insert new Key: 0
+1
+2
+3
+5
+5
+5
+6
+8
+9
+9
+10
+Found 6
+Time to Search Key: 0
+removing leaf: 3
+left
+removing leaf: 5
+removing leaf: 5
+removing leaf: 6
+right
+5 destroyed
+3 destroyed
+5 destroyed
+5 destroyed
+6 destroyed
+middle
+Time to Remove Key: 0
+1
+2
